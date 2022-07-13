@@ -87,5 +87,34 @@ Specificando tre colori come attributi ai vertici del triangolo, si sfrutta l'in
 
 <img src="/media/1_6.5.png" alt="1_6.5" width="350"/>
 
+---
 
+#### Shaders: 6.6
+[1_6.6](1_6.6)<br>
+Utilizzo della classe shader e divisione in file di vertex shader e fragment shader
 
+<img src="/media/1_6.6.png" alt="1_6.6" width="350"/>
+
+---
+
+#### Shaders: 6.8 Esercizio 1
+[1_6.8_1](1_6.8_1)<br>
+Modifica del vertex shader per capovolgere il triangolo
+
+<img src="/media/1_6.8_1.png" alt="1_6.8_1" width="350"/>
+
+---
+
+#### Shaders: 6.8 Esercizio 2
+[1_6.8_2](1_6.8_2)<br>
+Utilizzo di un offset passato come parametro uniform per spostare il triangolo a destra dal vertex shader
+
+<img src="/media/1_6.8_2.png" alt="1_6.8_2" width="350"/>
+
+---
+
+#### Shaders: 6.8 Esercizio 3
+[1_6.8_3](1_6.8_3)<br>
+Utilizzo della posizione del vertice come parametro RGB
+
+<img src="/media/1_6.8_3.png" alt="1_6.8_3" width="350"/>
