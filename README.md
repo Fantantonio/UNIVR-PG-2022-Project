@@ -64,3 +64,28 @@ Disegna due triangoli, di cui uno di colore giallo utilizzando due programmi sha
 <img src="/media/1_5.8_3.png" alt="1_5.8_3" width="350"/>
 
 ---
+
+#### Shaders: 6.3
+[1_6.3.cpp](1_6.3.cpp)<br>
+Invio di valori dal vertex shader al fragment shader.
+
+<img src="/media/1_6.3.png" alt="1_6.3" width="350"/>
+
+---
+
+#### Shaders: 6.4
+[1_6.4.cpp](1_6.4.cpp)<br>
+Utilizzo degli uniforms per impostare attributi che possono cambiare nel tempo e per scambiare dati tra l'applicazione e gli shaders.
+
+<img src="/media/1_6.4.gif" alt="1_6.4" width="350"/>
+
+---
+
+#### Shaders: 6.5
+[1_6.5.cpp](1_6.5.cpp)<br>
+Specificando tre colori come attributi ai vertici del triangolo, si sfrutta l'interpolazione tra frammenti del fragment shader per ottenere il seguente risultato:
+
+<img src="/media/1_6.5.png" alt="1_6.5" width="350"/>
+
+
+
