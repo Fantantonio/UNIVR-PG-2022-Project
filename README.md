@@ -182,3 +182,35 @@ Utilizza solo la posizione centrale della texture come texture
 Aumenta/riduce la percentuale di mix delle due texture con l'uso delle frecce da tastiera
 
 <img src="/media/1_7.8_4.gif" alt="1_7.8_4" width="350"/>
+
+---
+
+#### Textures: 8.17
+[1_8.17](1_8.17)<br>
+Scala e ruota il rettangolo
+
+<img src="/media/1_8.17.png" alt="1_8.17" width="350"/>
+
+---
+
+#### Textures: 8.17 Esempio 2
+[1_8.17_2](1_8.17_2)<br>
+Trasla il rettangolo in basso a destra e ruotalo nel tempo
+
+<img src="/media/1_8.17_2.gif" alt="1_8.17_2" width="350"/>
+
+---
+
+#### Textures: 8.19 Esercizio 1
+[1_8.19_1](1_8.19_1)<br>
+Ruota nel tempo il rettangolo e traslalo in basso a destra
+
+<img src="/media/1_8.19_1.gif" alt="1_8.19_1" width="350"/>
+
+---
+
+#### Textures: 8.19 Esercizio 2
+[1_8.19_2](1_8.19_2)<br>
+Aggiungi a 8.17 Esempio 2 un rettangolo in alto a sinistra e scalalo nel tempo
+
+<img src="/media/1_8.19_2.gif" alt="1_8.19_2" width="350"/>
