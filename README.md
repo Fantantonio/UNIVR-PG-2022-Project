@@ -11,7 +11,7 @@ Repository utilizzato per le esercitazioni del corso di Programmazione Grafica U
 
 #### Window: 4.4
 [1_4.4.cpp](1_4.4.cpp)<br>
-Genera una finestra
+Genera una finestra.
 
 <img src="/media/1_4.4.png" alt="1_4.4" width="350"/>
 
@@ -19,7 +19,7 @@ Genera una finestra
 
 #### Window: 4.6
 [1_4.6.cpp](1_4.6.cpp)<br>
-Genera una finestra con colore di sfondo
+Genera una finestra con colore di sfondo.
 
 <img src="/media/1_4.6.png" alt="1_4.6" width="350"/>
 
@@ -27,7 +27,7 @@ Genera una finestra con colore di sfondo
 
 #### Draw: 5.5.2
 [1_5.5.2.cpp](1_5.5.2.cpp)<br>
-Utilizza gli shader per disegnare un triangolo in finestra
+Utilizza gli shader per disegnare un triangolo in finestra.
 
 <img src="/media/1_5.5.2.png" alt="1_5.5.2" width="350"/>
 
@@ -35,7 +35,7 @@ Utilizza gli shader per disegnare un triangolo in finestra
 
 #### Draw: 5.6
 [1_5.6.cpp](1_5.6.cpp)<br>
-Generare un rettangolo composto da due triangoli (visuale wireframe)
+Generare un rettangolo composto da due triangoli (visuale wireframe).
 
 <img src="/media/1_5.6.png" alt="1_5.6" width="350"/>
 
@@ -43,7 +43,7 @@ Generare un rettangolo composto da due triangoli (visuale wireframe)
 
 #### Draw: 5.8 Esercizio 1
 [1_5.8_1.cpp](1_5.8_1.cpp)<br>
-Disegna due triangoli vicini usando `glDrawArrays` aggiungendo più vertici ai dati
+Disegna due triangoli vicini usando `glDrawArrays` aggiungendo più vertici ai dati.
 
 <img src="/media/1_5.8_1.png" alt="1_5.8_1" width="350"/>
 
@@ -51,7 +51,7 @@ Disegna due triangoli vicini usando `glDrawArrays` aggiungendo più vertici ai d
 
 #### Draw: 5.8 Esercizio 2
 [1_5.8_2.cpp](1_5.8_2.cpp)<br>
-Disegna due triangoli vicini usando due VAO e VBO diversi per i loro dati
+Disegna due triangoli vicini usando due VAO e VBO diversi per i loro dati.
 
 <img src="/media/1_5.8_2.png" alt="1_5.8_2" width="350"/>
 
@@ -91,7 +91,7 @@ Specificando tre colori come attributi ai vertici del triangolo, si sfrutta l'in
 
 #### Shaders: 6.6
 [1_6.6](1_6.6)<br>
-Utilizzo della classe shader e divisione in file di vertex shader e fragment shader
+Utilizzo della classe shader e divisione in file di vertex shader e fragment shader.
 
 <img src="/media/1_6.6.png" alt="1_6.6" width="350"/>
 
@@ -99,7 +99,7 @@ Utilizzo della classe shader e divisione in file di vertex shader e fragment sha
 
 #### Shaders: 6.8 Esercizio 1
 [1_6.8_1](1_6.8_1)<br>
-Modifica del vertex shader per capovolgere il triangolo
+Modifica del vertex shader per capovolgere il triangolo.
 
 <img src="/media/1_6.8_1.png" alt="1_6.8_1" width="350"/>
 
@@ -107,7 +107,7 @@ Modifica del vertex shader per capovolgere il triangolo
 
 #### Shaders: 6.8 Esercizio 2
 [1_6.8_2](1_6.8_2)<br>
-Utilizzo di un offset passato come parametro uniform per spostare il triangolo a destra dal vertex shader
+Utilizzo di un offset passato come parametro uniform per spostare il triangolo a destra dal vertex shader.
 
 <img src="/media/1_6.8_2.png" alt="1_6.8_2" width="350"/>
 
@@ -115,7 +115,7 @@ Utilizzo di un offset passato come parametro uniform per spostare il triangolo a
 
 #### Shaders: 6.8 Esercizio 3
 [1_6.8_3](1_6.8_3)<br>
-Utilizzo della posizione del vertice come parametro RGB
+Utilizzo della posizione del vertice come parametro RGB.
 
 <img src="/media/1_6.8_3.png" alt="1_6.8_3" width="350"/>
 
@@ -123,7 +123,7 @@ Utilizzo della posizione del vertice come parametro RGB
 
 #### Textures: 7.0
 [1_7.0](1_7.0)<br>
-Aggiunge la texture wall.jpg al triangolo
+Aggiunge la texture wall.jpg al triangolo.
 
 <img src="/media/1_7.0.png" alt="1_7.0" width="350"/>
 
@@ -131,7 +131,7 @@ Aggiunge la texture wall.jpg al triangolo
 
 #### Textures: 7.6
 [1_7.6](1_7.6)<br>
-Aggiunge la texture container.jpg al rettangolo
+Aggiunge la texture container.jpg al rettangolo.
 
 <img src="/media/1_7.6.png" alt="1_7.6" width="350"/>
 
@@ -139,7 +139,7 @@ Aggiunge la texture container.jpg al rettangolo
 
 #### Textures: 7.6.1
 [1_7.6.1](1_7.6.1)<br>
-Aggiunge la texture container.jpg al rettangolo ed interpola il colore con la posizione dei vertici
+Aggiunge la texture container.jpg al rettangolo ed interpola il colore con la posizione dei vertici.
 
 <img src="/media/1_7.6.1.png" alt="1_7.6.1" width="350"/>
 
@@ -147,7 +147,7 @@ Aggiunge la texture container.jpg al rettangolo ed interpola il colore con la po
 
 #### Textures: 7.7
 [1_7.7](1_7.7)<br>
-Mix di due texture con valore 50%/50%
+Mix di due texture con valore 50%/50%.
 
 <img src="/media/1_7.7.png" alt="1_7.7" width="350"/>
 
@@ -155,7 +155,7 @@ Mix di due texture con valore 50%/50%
 
 #### Textures: 7.8 Esercizio 1
 [1_7.8_1](1_7.8_1)<br>
-Inverte solo la texture awesomeface.png
+Inverte solo la texture awesomeface.png.
 
 <img src="/media/1_7.8_1.png" alt="1_7.8_1" width="350"/>
 
@@ -163,7 +163,7 @@ Inverte solo la texture awesomeface.png
 
 #### Textures: 7.8 Esercizio 2
 [1_7.8_2](1_7.8_2)<br>
-Replica solo la texture awesomeface.png (4 totali)
+Replica solo la texture awesomeface.png (4 totali).
 
 <img src="/media/1_7.8_2.png" alt="1_7.8_2" width="350"/>
 
@@ -171,7 +171,7 @@ Replica solo la texture awesomeface.png (4 totali)
 
 #### Textures: 7.8 Esercizio 3
 [1_7.8_3](1_7.8_3)<br>
-Utilizza solo la posizione centrale della texture come texture
+Utilizza solo la posizione centrale della texture come texture.
 
 <img src="/media/1_7.8_3.png" alt="1_7.8_3" width="350"/>
 
@@ -179,7 +179,7 @@ Utilizza solo la posizione centrale della texture come texture
 
 #### Textures: 7.8 Esercizio 4
 [1_7.8_4](1_7.8_4)<br>
-Aumenta/riduce la percentuale di mix delle due texture con l'uso delle frecce da tastiera
+Aumenta/riduce la percentuale di mix delle due texture con l'uso delle frecce da tastiera.
 
 <img src="/media/1_7.8_4.gif" alt="1_7.8_4" width="350"/>
 
@@ -187,7 +187,7 @@ Aumenta/riduce la percentuale di mix delle due texture con l'uso delle frecce da
 
 #### Textures: 8.17
 [1_8.17](1_8.17)<br>
-Scala e ruota il rettangolo
+Scala e ruota il rettangolo.
 
 <img src="/media/1_8.17.png" alt="1_8.17" width="350"/>
 
@@ -195,7 +195,7 @@ Scala e ruota il rettangolo
 
 #### Textures: 8.17 Esempio 2
 [1_8.17_2](1_8.17_2)<br>
-Trasla il rettangolo in basso a destra e ruotalo nel tempo
+Trasla il rettangolo in basso a destra e ruotalo nel tempo.
 
 <img src="/media/1_8.17_2.gif" alt="1_8.17_2" width="350"/>
 
@@ -203,7 +203,7 @@ Trasla il rettangolo in basso a destra e ruotalo nel tempo
 
 #### Textures: 8.19 Esercizio 1
 [1_8.19_1](1_8.19_1)<br>
-Ruota nel tempo il rettangolo e traslalo in basso a destra
+Ruota nel tempo il rettangolo e traslalo in basso a destra.
 
 <img src="/media/1_8.19_1.gif" alt="1_8.19_1" width="350"/>
 
@@ -211,6 +211,46 @@ Ruota nel tempo il rettangolo e traslalo in basso a destra
 
 #### Textures: 8.19 Esercizio 2
 [1_8.19_2](1_8.19_2)<br>
-Aggiungi a 8.17 Esempio 2 un rettangolo in alto a sinistra e scalalo nel tempo
+Aggiungi a 8.17 Esempio 2 un rettangolo in alto a sinistra e scalalo nel tempo.
 
 <img src="/media/1_8.19_2.gif" alt="1_8.19_2" width="350"/>
+
+---
+
+#### Coordinate Systems: 9.7
+[1_9.7](1_9.7)<br>
+Sposta le coordinate dei vertici attraverso le matrici model, view e projection per ottenere un oggetto inclinato all'indietro, leggermente distante dall'osservatore e visualizzato con prospettiva.
+
+<img src="/media/1_9.7.png" alt="1_9.7" width="350"/>
+
+---
+
+#### Coordinate Systems: 9.8
+[1_9.8](1_9.8)<br>
+Disegna un cubo che ruota senza abilitare le informazioni di profondità.
+
+<img src="/media/1_9.8.gif" alt="1_9.8" width="350"/>
+
+---
+
+#### Coordinate Systems: 9.8.1
+[1_9.8.1](1_9.8.1)<br>
+9.8 con le informazioni di profondità abilitate.
+
+<img src="/media/1_9.8.1.gif" alt="1_9.8.1" width="350"/>
+
+---
+
+#### Coordinate Systems: 9.8.2
+[1_9.8.2](1_9.8.2)<br>
+Disegna vari cubi in posizioni random con rotazione random.
+
+<img src="/media/1_9.8.2.png" alt="1_9.8.2" width="350"/>
+
+---
+
+#### Coordinate Systems: 9.9 Esercizio 3
+[1_9.9_3](1_9.9_3)<br>
+9.8.2 ma ogni tre cubi uno ruota.
+
+<img src="/media/1_9.9_3.gif" alt="1_9.9_3" width="350"/>
