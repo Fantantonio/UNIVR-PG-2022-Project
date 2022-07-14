@@ -118,3 +118,67 @@ Utilizzo di un offset passato come parametro uniform per spostare il triangolo a
 Utilizzo della posizione del vertice come parametro RGB
 
 <img src="/media/1_6.8_3.png" alt="1_6.8_3" width="350"/>
+
+---
+
+#### Textures: 7.0
+[1_7.0](1_7.0)<br>
+Aggiunge la texture wall.jpg al triangolo
+
+<img src="/media/1_7.0.png" alt="1_7.0" width="350"/>
+
+---
+
+#### Textures: 7.6
+[1_7.6](1_7.6)<br>
+Aggiunge la texture container.jpg al rettangolo
+
+<img src="/media/1_7.6.png" alt="1_7.6" width="350"/>
+
+---
+
+#### Textures: 7.6.1
+[1_7.6.1](1_7.6.1)<br>
+Aggiunge la texture container.jpg al rettangolo ed interpola il colore con la posizione dei vertici
+
+<img src="/media/1_7.6.1.png" alt="1_7.6.1" width="350"/>
+
+---
+
+#### Textures: 7.7
+[1_7.7](1_7.7)<br>
+Mix di due texture con valore 50%/50%
+
+<img src="/media/1_7.7.png" alt="1_7.7" width="350"/>
+
+---
+
+#### Textures: 7.8 Esercizio 1
+[1_7.8_1](1_7.8_1)<br>
+Inverte solo la texture awesomeface.png
+
+<img src="/media/1_7.8_1.png" alt="1_7.8_1" width="350"/>
+
+---
+
+#### Textures: 7.8 Esercizio 2
+[1_7.8_2](1_7.8_2)<br>
+Replica solo la texture awesomeface.png (4 totali)
+
+<img src="/media/1_7.8_2.png" alt="1_7.8_2" width="350"/>
+
+---
+
+#### Textures: 7.8 Esercizio 3
+[1_7.8_3](1_7.8_3)<br>
+Utilizza solo la posizione centrale della texture come texture
+
+<img src="/media/1_7.8_3.png" alt="1_7.8_3" width="350"/>
+
+---
+
+#### Textures: 7.8 Esercizio 4
+[1_7.8_4](1_7.8_4)<br>
+Aumenta/riduce la percentuale di mix delle due texture con l'uso delle frecce da tastiera
+
+<img src="/media/1_7.8_4.gif" alt="1_7.8_4" width="350"/>
