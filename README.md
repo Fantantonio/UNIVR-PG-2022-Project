@@ -402,3 +402,43 @@ Utilizza una texture colorata per calcolare la luce speculare.
 Aggiunge una luce emissiva data da una texture (scritte verdi sul cubo).
 
 <img src="/media/2_15.4_3.png" alt="2_15.4_3" width="350"/>
+
+---
+
+#### Lighting Maps: 16.1
+[2_16.1](2_16.1)<br>
+Creazione di una luce direzionale.
+
+<img src="/media/2_16.1.png" alt="2_16.1" width="350"/>
+
+---
+
+#### Lighting Maps: 16.3.2
+[2_16.3.2](2_16.3.2)<br>
+Creazione di una luce point con attenuazione.
+
+<img src="/media/2_16.3.2.png" alt="2_16.3.2" width="350"/>
+
+---
+
+#### Lighting Maps: 16.5
+[2_16.5](2_16.5)<br>
+Creazione di una flashlight posizionata sulla camera.
+
+<img src="/media/2_16.5.png" alt="2_16.5" width="350"/>
+
+---
+
+#### Lighting Maps: 16.6
+[2_16.6](2_16.6)<br>
+Creazione di una flashlight con bordi attenuati.
+
+<img src="/media/2_16.6.png" alt="2_16.6" width="350"/>
+
+---
+
+#### Lighting Maps: 17.3
+[2_17.3](2_17.3)<br>
+Crea una scena con luci multiple (ambientale, direzionale, spot e point).
+
+<img src="/media/2_17.3.png" alt="2_17.3" width="350"/>
