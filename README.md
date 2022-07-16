@@ -362,3 +362,43 @@ Stesso effetto raggiunto in precedenza ma con controllo completo sulla luce e su
 Simula il materiale plastica ciano con intensità luminosa impostata al massimo.
 
 <img src="/media/2_14.4_1.png" alt="2_14.4_1" width="350"/>
+
+---
+
+#### Lighting Maps: 15.1
+[2_15.1](2_15.1)<br>
+Utilizzo di una diffuse map.
+
+<img src="/media/2_15.1.png" alt="2_15.1" width="350"/>
+
+---
+
+#### Lighting Maps: 15.3
+[2_15.3](2_15.3)<br>
+Calcola la luce speculare dalla texture fornita.
+
+<img src="/media/2_15.3.png" alt="2_15.3" width="350"/>
+
+---
+
+#### Lighting Maps: 15.4 Esercizio 2
+[2_15.4_1](2_15.4_1)<br>
+Inverte la luce speculare calcolata dalla texture.
+
+<img src="/media/2_15.4_1.png" alt="2_15.4_1" width="350"/>
+
+---
+
+#### Lighting Maps: 15.4 Esercizio 3
+[2_15.4_2](2_15.4_2)<br>
+Utilizza una texture colorata per calcolare la luce speculare.
+
+<img src="/media/2_15.4_2.png" alt="2_15.4_2" width="350"/>
+
+---
+
+#### Lighting Maps: 15.4 Esercizio 4
+[2_15.4_3](2_15.4_3)<br>
+Aggiunge una luce emissiva data da una texture (scritte verdi sul cubo).
+
+<img src="/media/2_15.4_3.png" alt="2_15.4_3" width="350"/>
