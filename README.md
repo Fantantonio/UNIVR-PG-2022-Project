@@ -254,3 +254,111 @@ Disegna vari cubi in posizioni random con rotazione random.
 9.8.2 ma ogni tre cubi uno ruota.
 
 <img src="/media/1_9.9_3.gif" alt="1_9.9_3" width="350"/>
+
+---
+
+#### Camera: 10.2
+[1_10.2](1_10.2)<br>
+Implementa la rotazione nel tempo della camera attorno alla scena.
+
+<img src="/media/1_10.2.gif" alt="1_10.2" width="350"/>
+
+---
+
+#### Camera: 10.4
+[1_10.4](1_10.4)<br>
+Implementa una camera che si muove alla stessa velocità su ogni sistema (deltaTime) (solo WASD).
+
+<img src="/media/1_10.4.gif" alt="1_10.4" width="350"/>
+
+---
+
+#### Camera: 10.8
+[1_10.8](1_10.8)<br>
+Implementa una camera che permette di muoversi liberamente in un ambiente 3D (WASD + scroll + posizione mouse).
+
+<img src="/media/1_10.8.gif" alt="1_10.8" width="350"/>
+
+---
+
+#### Camera: 10.9
+[1_10.9](1_10.9)<br>
+Implementa una classe camera di tipo fly.
+
+<img src="/media/1_10.9.gif" alt="1_10.9" width="350"/>
+
+---
+
+#### Camera: 10.9 Esercizio 1
+[1_10.9_1](1_10.9_1)<br>
+La camera è di tipo FPS (mantiene l'osservatore a livello ground).
+
+<img src="/media/1_10.9_1.gif" alt="1_10.9_1" width="350"/>
+
+---
+---
+
+## Capitolo 2
+
+
+#### Colors: 12.1
+[2_12.1](2_12.1)<br>
+Implementa un oggetto cubo ed un oggetto luce (cubo più piccolo).
+
+<img src="/media/2_12.1.png" alt="2_12.1" width="350"/>
+
+---
+
+#### Basic Lighting: 13.4
+[2_13.4](2_13.4)<br>
+Utilizzo dell'illuminazione diffusa. Si noti la differenza di intensità illuminazione del cubo tanto maggiore è piccolo l'angolo tra il vettore normale e il vettore direzione della luce.
+
+<img src="/media/2_13.4.png" alt="2_13.4" width="350"/>
+
+---
+
+#### Basic Lighting: 13.6
+[2_13.6](2_13.6)<br>
+Completa l'implementazione del sistema di illuminazione Phong nello spazio world.
+
+<img src="/media/2_13.6.png" alt="2_13.6" width="350"/>
+
+---
+
+#### Basic Lighting: 13.7 Esercizio 1
+[2_13.7_1](2_13.7_1)<br>
+Utilizza seno e coseno per muovere la posizione della luce nel tempo.
+
+<img src="/media/2_13.7_1.gif" alt="2_13.7_1" width="350"/>
+
+---
+
+#### Basic Lighting: 13.7 Esercizio 2
+[2_13.7_2](2_13.7_2)<br>
+Implementa il Pong shading nello spazio view invece che world.
+
+<img src="/media/2_13.7_2.gif" alt="2_13.7_2" width="350"/>
+
+---
+
+#### Basic Lighting: 13.7 Esercizio 3
+[2_13.7_3](2_13.7_3)<br>
+Utilizzo del Gouraud shading al posto del Phong (meno preciso).
+
+<img src="/media/2_13.7_3.png" alt="2_13.7_3" width="350"/>
+
+---
+
+#### Materials: 14.3
+[2_14.3](2_14.3)<br>
+Stesso effetto raggiunto in precedenza ma con controllo completo sulla luce e sul materiale dell'oggetto.
+
+<img src="/media/2_14.3.gif" alt="2_14.3" width="350"/>
+
+---
+
+#### Materials: 14.4 Esercizio 1
+[2_14.4_1](2_14.4_1)<br>
+Simula il materiale plastica ciano con intensità luminosa impostata al massimo.
+
+<img src="/media/2_14.4_1.png" alt="2_14.4_1" width="350"/>
