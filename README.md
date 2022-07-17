@@ -465,4 +465,11 @@ Utilizza il normal mapping per generare dettagli a basso costo attraverso la mod
 
 <img src="/media/5_37.2.2.png" alt="5_37.2.2" width="350"/>
 
+---
+---
 
+## Esercitazione Animazione
+
+Riproduce l'animazione scheletale del seguente repository: [skeletal_animation_tutorial](https://github.com/dinismf/skeletal_animation_tutorial/tree/master/TeapotAD).
+
+<img src="/media/skeletal_animation.gif" alt="skeletal_animation" width="350"/>
