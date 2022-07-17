@@ -468,8 +468,41 @@ Utilizza il normal mapping per generare dettagli a basso costo attraverso la mod
 ---
 ---
 
-## Esercitazione Animazione
+## Esercitazioni
+
+---
+
+#### Caricamento modello animato attraverso Assimp 1
 
 Riproduce l'animazione scheletale del seguente repository: [skeletal_animation_tutorial](https://github.com/dinismf/skeletal_animation_tutorial/tree/master/TeapotAD).
 
 <img src="/media/skeletal_animation.gif" alt="skeletal_animation" width="350"/>
+
+---
+
+#### Caricamento modello animato attraverso Assimp 2
+
+Riproduce l'animazione scheletale di un modello animato scaricato da [Mixamo](https://www.mixamo.com/#/).
+
+<img src="/media/skeletal_animation_2.gif" alt="skeletal_animation_2" width="350"/>
+
+---
+
+#### Esercitazione 1
+
+Il lighting è composto da:
+- 4 Point Light (di cui una ruota attorno al modello).
+- 1 Directional Light.
+- 1 Spotlight che punta nella stessa direzione della camera.
+
+Le point light sono rappresentate da cubi.
+<br>
+Il lighting viene calcolato all'interno del Tangent Space.
+<br>
+Il movimento della camera è gestito dall'utente tramite i tasti WASD, mentre la direzione viene decisa dalla posizione del mouse e lo zoom dalla rotellina del mouse.
+<br>
+Si utilizza la classe Camera per gestire tutto il movimento della camera.
+<br>
+Il modello statico utilizzato è il backpack utilizzato qui: [3_21.3](3_21.3) e viene caricato tramite l'utlizzo della libreria [Assimp](https://assimp-docs.readthedocs.io/)
+
+<img src="/media/esercitazione1.gif" alt="esercitazione1" width="350"/>
