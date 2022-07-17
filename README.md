@@ -442,3 +442,27 @@ Creazione di una flashlight con bordi attenuati.
 Crea una scena con luci multiple (ambientale, direzionale, spot e point).
 
 <img src="/media/2_17.3.png" alt="2_17.3" width="350"/>
+
+---
+---
+
+## Capitolo 3
+
+#### Model: 21.3
+[3_21.3](3_21.3)<br>
+Importa un modello (.obj) completo di texture attraverso Assimp. Creazione di classi Mesh e Model dedicate.
+
+<img src="/media/3_21.3.png" alt="3_21.3" width="350"/>
+
+---
+---
+
+## Capitolo 5
+
+#### Lighting Maps: 37.2.2
+[5_37.2.2](5_37.2.2)<br>
+Utilizza il normal mapping per generare dettagli a basso costo attraverso la modifica di vettori delle normali per frammento senza dover modificare l'equazione dell'illuminazione.
+
+<img src="/media/5_37.2.2.png" alt="5_37.2.2" width="350"/>
+
+
