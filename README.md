@@ -488,7 +488,7 @@ Riproduce l'animazione scheletale di un modello animato scaricato da [Mixamo](ht
 
 ---
 
-#### Esercitazione 1
+#### Esercitazione avanzata 1
 
 Il lighting è composto da:
 - 4 Point Light (di cui una ruota attorno al modello).
@@ -506,3 +506,12 @@ Si utilizza la classe Camera per gestire tutto il movimento della camera.
 Il modello statico utilizzato è il backpack utilizzato qui: [3_21.3](3_21.3) e viene caricato tramite l'utlizzo della libreria [Assimp](https://assimp-docs.readthedocs.io/)
 
 <img src="/media/esercitazione1.gif" alt="esercitazione1" width="350"/>
+
+---
+
+#### Esercitazione avanzata 2
+
+Creazione di una scena con oggetti dei quali è necessario renderizzare l'ombra attraverso lo shadow mapping.<br>
+Risolvere i problemi di shadow acne, peter panning, over sampling e percentage-closer filtering (PCF).
+
+<img src="/media/esercitazione2_5.gif" alt="esercitazione2_5" width="350"/>
